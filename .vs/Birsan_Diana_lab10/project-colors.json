@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c67859e6-9aa9-4cee-9ce7-65824c5375a0": {
+      "ProjectGuid": "c67859e6-9aa9-4cee-9ce7-65824c5375a0",
+      "DisplayName": "Birsan_Diana_lab10",
+      "ColorIndex": 0
+    },
+    "f905a8dd-dc0e-41a1-9d26-72ea8cc3e835": {
+      "ProjectGuid": "f905a8dd-dc0e-41a1-9d26-72ea8cc3e835",
+      "DisplayName": "Birsan_Diana_lab10.Android",
+      "ColorIndex": 1
+    },
+    "c46f1b6b-acf6-4b45-aa3f-c5de59d69f56": {
+      "ProjectGuid": "c46f1b6b-acf6-4b45-aa3f-c5de59d69f56",
+      "DisplayName": "Birsan_Diana_lab10.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
