@@ -13,4 +13,6 @@ namespace Birsan_Diana_lab10.Models
         public string Description { get; set; }
         public DateTime Date { get; set; }
     }
+
+
 }

@@ -1,6 +1,7 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using System;
 using Birsan_Diana_lab10.Data;
 using System.IO;
 
@@ -28,6 +29,7 @@ namespace Birsan_Diana_lab10
 
             MainPage = new NavigationPage(new ListEntryPage());
         }
+
         protected override void OnStart()
         {
         }

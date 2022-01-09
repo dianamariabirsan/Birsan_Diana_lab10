@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/63ejQfwam317+tf6Ko6faPIb3j10w3bjfSpUAYfXuOfTbVtaoJW4pkW2AEll0scXS3JikwIH6j8CLlGpMjyQ==",
+  "dgSpecHash": "DYdSIYKZWW8zmDn/Q0S2PGRLeQT4BgV/h6tvwLugPnuczAnEFZimYV1t8qJ8YrCFDfV6bvKUiHEeQA+goDn21g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diana\\Desktop\\Proiecte Fsega\\Birsan_Diana_lab10\\Birsan_Diana_lab10\\Birsan_Diana_lab10.iOS\\Birsan_Diana_lab10.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Diana\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Diana\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",

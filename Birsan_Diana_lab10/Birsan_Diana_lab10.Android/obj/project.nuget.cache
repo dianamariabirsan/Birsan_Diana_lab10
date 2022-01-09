@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "yFAPKHS7+C4vuckZA7pf3b6yAYAqlBevJ6jgyb1DM/RctXE0+6sXxNGYyvWkWY2WquHXza5hYcc4jbmez7SrDA==",
+  "dgSpecHash": "e93lkTFU919AEVToN9ckcKfLj8LJ6Cb/BDuXL6NzphdIYtU3VxdxSZJ3wAAq9zGysDUvZA0ttWJ8dc207nnmRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Diana\\Desktop\\Proiecte Fsega\\Birsan_Diana_lab10\\Birsan_Diana_lab10\\Birsan_Diana_lab10.Android\\Birsan_Diana_lab10.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Diana\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\Diana\\.nuget\\packages\\sqlitenetextensions\\2.1.0\\sqlitenetextensions.2.1.0.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
     "C:\\Users\\Diana\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3.android\\2.0.4\\sqlitepclraw.lib.e_sqlite3.android.2.0.4.nupkg.sha512",
